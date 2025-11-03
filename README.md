@@ -19,7 +19,7 @@ Notebooks for reproducing results on synthetic experiments in **Section 7.1**, *
 
 ---
 
-### **Real-Data Experiments (`real_data_analysis/`)**
+### **Real-Data Experiments (`real_experiments/`)**
 
 Notebooks for reproducing real-data results in **Section 7.2**, **Appendix B.4–B.5**:
 
