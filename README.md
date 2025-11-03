@@ -11,11 +11,11 @@
 Notebooks for reproducing results on synthetic experiments in **Section 7.1**, **Appendix B.1–B.3**:
 
 | Experiment | Description | Figures | File |
-|-----------------------|--------------|----------|------|
-| Localization in Gaussian mean-shift | CONCH confidence sets under Gaussian mean change | Fig. 1, 6 | `Gaussian_sims.ipynb` |
-| Calibration of Bootstrap confidence sets | Calibration of Bootstrap confidence sets via CONCH | Fig. 2 | `Calibration.ipynb` |
-| Multiple changepoint localization | CONCH with KCPD segmentation | Fig. 7 | `Multiple_chpt.ipynb` |
-| Localization in two-urn model | CONCH confidence sets for the two-urn setup | Fig. 8 | `Two_urns_sims.ipynb` |
+|------------------|--------------|----------|------|
+| Gaussian mean-shift | CONCH confidence sets under Gaussian mean change for different CPP scores | Fig. 1, 6 | `Gaussian_sims.ipynb` |
+| Calibrating Bootstrap sets | Calibration of Bootstrap confidence sets via CONCH | Fig. 2 | `Calibration.ipynb` |
+| Multiple changepoint | CONCH to localize multiple changepoint with KCPD segmentation | Fig. 7 | `Multiple_chpt.ipynb` |
+| Two-urn model | CONCH confidence sets for the two-urn setup | Fig. 8 | `Two_urns_sims.ipynb` |
 
 ---
 
