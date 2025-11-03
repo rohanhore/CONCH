@@ -1,7 +1,6 @@
 # **CONformal CHangepoint Localization (CONCH)**
 
-**CONCH** is a distribution-free framework for offline changepoint localization that provides *exact finite-sample confidence sets*.  
-This repository contains all simulation and real-data experiments from the paper.
+**CONCH** is a distribution-free framework for offline changepoint localization that provides *exact finite-sample confidence sets*. This repository contains all simulation and real-data experiments from the [paper](https://rohanhore.github.io/research/CONCH.pdf) .
 
 ---
 
